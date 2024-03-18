@@ -35,7 +35,7 @@ public class Result {
     }
 
     void tharmes(){
-	System.out.println("tharmes");
+	System.out.println("Tharmes");
     }
 
 }
